@@ -1,0 +1,4 @@
+1.Po dodaniu "polecenia do testu programistycznego" nie mozna ich usunac (dostaje sie BadRequest status = 400 ) http://screenshot.sh/mK8mwfw8Qmmkp ,wtedy rowniez nie dziala dodawanie nowych pytan http://screenshot.sh/ov20HpejHJwtH .
+2. Nigdzie indziej (poza register) nie dziala internacjonalizacja (przynajmniej mi).
+3. Za zadanie mo¿e byc przyznane 0 pkt.
+4. Jako admin (aaa2) stworzylem test "Czy matka wie ze cpiesz", rozwiazlaem go, relogowalem sie na uzytownika(aaa1), i w "archiwalnych testach" zwyklego uzytkownika widze ze admin rozwiazal test "Czy matka wie ze cpiesz" i ile zdobyl pkt. http://screenshot.sh/n9gWBnU9cRQo3
